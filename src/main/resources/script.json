@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "63f3bc3fec86a4f52b11ef89"
+  },
+  "cream": "70%",
+  "flavours": "Mint",
+  "allergen": "Mint",
+  "buyingPrice": "2",
+  "category": "Cream Ice cream",
+  "ingredient": [
+    {
+      "ingredientName": "Chocolate"
+    },
+    {
+      "ingredientName": "Choco chips"
+    }
+  ],
+  "name": "Mint Chocolate",
+  "nutriValue": "70",
+  "sellingPrice": "6"
+},{
+  "_id": {
+    "$oid": "63f3bc3fec86a4f52b11ef8a"
+  },
+  "allergen": "Dairy",
+  "buyingPrice": "3",
+  "category": "Fruit Ice cream",
+  "ingredient": [
+    {
+      "ingredientName": "Mango"
+    },
+    {
+      "ingredientName": "Cream"
+    }
+  ],
+  "name": "Mango Ice-cream",
+  "nutriValue": "40",
+  "sellingPrice": "7",
+  "fruits": "Mango",
+  "fruit_content": "70%"
+},{
+  "_id": {
+    "$oid": "63f3d3da85b37f0e444ad826"
+  },
+  "name": "Strawberry Yogurt",
+  "allergen": "Dairy Products and berries",
+  "category": "Frozen Yogurt",
+  "buyingPrice": 2,
+  "sellingPrice": 5,
+  "nutriValue": 70,
+  "milk": "30%",
+  "flavours": [
+    "Strawberry",
+    " mint"
+  ],
+  "ingredient": [
+    {
+      "ingredientName": "Yogurt"
+    },
+    {
+      "ingredientName": "Strawberry"
+    },
+    {
+      "ingredientName": "Sugar"
+    }
+  ],
+  "_class": "com.example.demo.models.FlavourModel"
+},{
+  "_id": {
+    "$oid": "63f3de2785b37f0e444ad827"
+  },
+  "name": "Safron Kulfi",
+  "allergen": "Dairy Product and nuts",
+  "category": "Kulfi",
+  "buyingPrice": 2,
+  "sellingPrice": 6,
+  "nutriValue": 50,
+  "milk": "50",
+  "flavours": [
+    "cardamom",
+    " safron"
+  ],
+  "ingredient": [
+    {
+      "ingredientName": "Condensed Milk"
+    },
+    {
+      "ingredientName": "Sugar"
+    }
+  ],
+  "_class": "com.example.demo.models.FlavourModel"
+},{
+  "_id": {
+    "$oid": "63f4084d85b37f0e444ad828"
+  },
+  "name": "Belgium Chocolate Ice cream",
+  "allergen": "Dairy products",
+  "category": "Gelato",
+  "buyingPrice": 7,
+  "sellingPrice": 13,
+  "nutriValue": 50,
+  "milk": "70",
+  "flavours": [
+    "Chocolate"
+  ],
+  "ingredient": [
+    {
+      "ingredientName": "Belgium chocolate"
+    },
+    {
+      "ingredientName": "Chocochips"
+    }
+  ],
+  "_class": "com.example.demo.models.FlavourModel"
+},{
+  "_id": {
+    "$oid": "63f4176c65261821f84b97df"
+  },
+  "name": "Mix Fruit Icecream",
+  "allergen": "Dairy",
+  "category": "Fruit Ice cream",
+  "buyingPrice": 2.0999999046325684,
+  "sellingPrice": 6.5,
+  "nutriValue": 135.60000610351562,
+  "fruit_content": "50",
+  "fruits": [
+    "Mango",
+    " Apple",
+    " Orange"
+  ],
+  "ingredient": [
+    {
+      "ingredientName": "Milk"
+    },
+    {
+      "ingredientName": "Cream"
+    }
+  ],
+  "_class": "com.sam.models.FlavourModel"
+}]
